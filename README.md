@@ -6,7 +6,6 @@ A simple, command-line implementation of the popular word-guessing game, Wordle,
 
 This project is a console-based game where the player has six attempts to guess a randomly selected five-letter word. After each guess, the game provides feedback using emojis, indicating which letters are correct and in the right position, correct but in the wrong position, or not in the word at all.
 
-[Image of a command-line Wordle game in action]
 
 ---
 
@@ -45,7 +44,6 @@ This project is a console-based game where the player has six attempts to guess 
     ```
 4.  **Play**: Follow the on-screen prompts to enter your guesses.
 
-    [Image of the terminal showing the "Enter your guess:" prompt]
 
 ---
 
